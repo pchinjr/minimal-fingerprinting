@@ -1,2 +1,0 @@
-# minimal-fingerprinting
-Begin app
